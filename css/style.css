@@ -1,0 +1,23 @@
+body {
+  background: black;
+}
+
+.text-wrapper {
+  position: absolute;
+  top: 30px;
+  right: 40px;
+  width: 300px;
+  height: 200px;
+}
+.text-wrapper h2 {
+  color: white;
+}
+
+.video-wrapper {
+  position: absolute;
+  top: 30px;
+  left: 40px;
+}
+.video-wrapper video {
+  width: 600px;
+}
